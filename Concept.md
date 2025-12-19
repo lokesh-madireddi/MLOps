@@ -29,5 +29,8 @@ Machine Learning Life Cycle.
 9. Deploying
 10. Model Monitoring/maintenance -->
 
-
+In the above life cycle, 
+Data Scientists --> till Model evaluation Data Scientist will take care 
+Machine Learning Engineers --> rest will be taken care by machine learning engineers by making it production deploy ready. 
+MLOps Engineers --> Identify the gaps between all the steps and fix those.
 
