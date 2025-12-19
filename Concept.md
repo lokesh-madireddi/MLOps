@@ -34,3 +34,10 @@ Data Scientists --> till Model evaluation Data Scientist will take care
 Machine Learning Engineers --> rest will be taken care by machine learning engineers by making it production deploy ready. 
 MLOps Engineers --> Identify the gaps between all the steps and fix those.
 
+Daily activities of MLOps Engg 
+1. Build Reprodusable Training pipelines (CT Pipelines)
+2. Automating CD to deploy models to Prod
+3. Observability
+4. Configure Model Registry to save the models
+5. Setting up Infra (IAC - Terraform)
+6. Setting up K8s, GPO, also for cost optimization.
