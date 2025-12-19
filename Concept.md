@@ -16,7 +16,7 @@ Steps How Data scientist create a Model:
 7. Save it in .pkl, .joblib, .onnx format.
 8. API creation --> ML engg will package the model into software applications to deploy. 
 
-Machine Learning Lifr Cycle. 
+Machine Learning Life Cycle. 
 ---
 1. Problem defenition --> understand a problem as detail as possible.
 2. Data collection --> gather info from various platforms
@@ -27,6 +27,7 @@ Machine Learning Lifr Cycle.
 7. Model Evaluation (20%)-->
 8. HyperParameter -->
 9. Deploying
-10. Model Monitoring/maintenance --> 
-Collecting raw data
+10. Model Monitoring/maintenance -->
+
+
 
