@@ -1,4 +1,4 @@
-name : Train and Save the Model
+name : Training The Model
 
 on: 
   push: 
