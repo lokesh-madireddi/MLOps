@@ -35,7 +35,7 @@ jobs:
           ls -la artifacts
       
       - name: Upload Artifacts
-        uses: actions/uploadartifact@v4
+        uses: actions/upload-artifact@v4
         with: 
           name: ml-artifact-${{ matrix.python }}-${{github.run_id}}
           path: artifacts
